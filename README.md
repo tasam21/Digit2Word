@@ -1,5 +1,5 @@
 # Digit2Word
-Conversion of amount in number to word format using HTML5, CSS3, JavaScript, PHP and MySQL 
+Conversion of amount in number to word format using HTML5, CSS3, JavaScript and Bootstrap. 
 
 When writing a check, you need to write out the amount using words (in addition to the numerals in the dollar box). This helps to prevent confusion and fraud – numerals can easily be altered or misunderstood, but an amount in words is much more difficult to tamper with. In most cases, it doesn’t matter what you write or how you write it: nobody will notice unless there’s a problem with the check.
 
