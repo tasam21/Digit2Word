@@ -9,7 +9,7 @@ In most cases, nobody even reads the amount that you write with words. Checks wi
 
 People commonly make mistake when writing amount in word format, so to make them easy to write the amount in correct word format, I have come up with a program that converts amount in numerical format into a word format by just clicking a button. Hope you like it.
 
-Here is the link <a href="http://www.tibetmycountry.com/Digit2Word">http://www.tibetmycountry.com/Digit2Word</a>
+Here is the link <a href="http://www.tibetmycountry.com/Digit2Word" target="_blank">http://www.tibetmycountry.com/Digit2Word</a>
 
 
 
