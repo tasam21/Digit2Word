@@ -7,6 +7,9 @@ The amount you write using words is the official amount of your check. If the am
 
 In most cases, nobody even reads the amount that you write with words. Checks with discrepancies often go unnoticed, especially when deposited at ATMs, but somebody will notice if there’s a problem with your check.
 
-People commonly make mistake when using writing amount in number to word format so to make them easy to write the amount in word format, I would like to share this piece of software. Hope you like it.
+People commonly make mistake when writing amount in word format, so to make them easy to write the amount in correct word format, I have come up with a program that converts amount in numerical format into a word format by just clicking a button. Hope you like it.
+
+Here is the link <a href="http://www.tibetmycountry.com/Digit2Word">http://www.tibetmycountry.com/Digit2Word</a>
+
 
 
