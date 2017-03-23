@@ -28,16 +28,16 @@
 		<div class="col-md-4">
 			<form>
 	  				<div class="form-group">
-    					<label for="exampleInputEmail1">Amount in Number</label>
+    					<label for="AmountInNumber">Amount in Number</label>
     						<input type="text" class="form-control" id="num" placeholder="Amount in Number Format">
-    						<small id="emailHelp" class="form-text text-muted">Write your donation amout in number format.</small>
+    						<small id="description" class="form-text text-muted">Write your donation amout in number format.</small>
   					</div>
 					<div class="form-group">
   						<input type="button" class="btn btn-primary" name="sr1" value="Convert into Word" onClick="numinwrd()">
   					</div>
 
   					<div class="form-group">
-    					<label for="amoutinword">Amount in Word Format</label>
+    					<label for="AmountInWord">Amount in Word Format</label>
     						<input type="text" class="form-control" id="number" placeholder="Amount in Word Format">
   					</div>
   					
