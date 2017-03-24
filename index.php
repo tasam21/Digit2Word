@@ -23,7 +23,7 @@
 				<p>HTML5 | CSS3 | Bootstrap | JavaScript </p>
 			</header>
 		
-		<div class="col-md-4">
+		<div class="col-md-4 box">
 			<form>
 	  				<div class="form-group">
     					<label for="AmountInNumber">Amount in Number</label>
