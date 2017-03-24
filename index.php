@@ -7,7 +7,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="css/style.css">
-<title>Digit-to-Word</title>
+<title>Digit-to-Word-Format</title>
 </head>
 
 <body>
@@ -18,12 +18,10 @@
 	
 	<section>
 	
-		<article>
 			<header>
-				<h2>Language Used:</h2>
+				<h2>Language used:</h2>
 				<p>HTML5 | CSS3 | Bootstrap | JavaScript </p>
-			
-		</article>
+			</header>
 		
 		<div class="col-md-4">
 			<form>
